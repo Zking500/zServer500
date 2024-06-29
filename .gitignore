@@ -1,6 +1,6 @@
 /Python*
 /work_area*
-/servidor_minecraft
+/servidor_minecraft2
 /minecraft_server
 /servidor_minecraft_old
 /tailscale-cs
@@ -10,7 +10,7 @@
 /vendor
 composer.*
 configuration.json
-configuracion.json
+configuraciion.json
 *.txt
 *.pyc
 *.msp
